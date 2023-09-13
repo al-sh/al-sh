@@ -12,8 +12,6 @@ I have experience in managing cross-functional teams (where analysts, developers
 
 Previously, I worked a lot on major projects in Sber, MTS. I also worked with smaller banks and IT companies. Now I develop VTB finance services working at Innotech. 
 
-I like to share my experience and knowledge. Previously, I did this only in the format of personal mentoring. I have recently grown up and am helping Sergey Dmitrievsky (60k subscribers on YouTube) in building the best frontend development course. I have 2 roles in the course. The first is an expert, I record some videos (for example, how to do homework correctly). The second is the chief curator, effectively leading several streams of 100+ students to their dream of flying into IT in the near future.
-
 *   🌍  I'm based in Russia
 *   ✉️  You can contact me at [a@shirochkin.ru](mailto:a@shirochkin.ru)
    ### Skills 
