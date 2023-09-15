@@ -13,7 +13,7 @@ I have experience in managing cross-functional teams (where analysts, developers
 Previously, I worked a lot on major projects in Sber, MTS. I also worked with smaller banks and IT companies. Now I develop VTB finance services working at Innotech. 
 
 *   🌍  I'm based in Russia
-*   ✉️  You can contact me at [a@shirochkin.ru](mailto:a@shirochkin.ru)
+*   ✉️  You can contact me at https://t.me/a_shirochkin or [a@shirochkin.ru](mailto:a@shirochkin.ru)
    ### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -39,3 +39,4 @@ Previously, I worked a lot on major projects in Sber, MTS. I also worked with sm
 ### Socials
 
 <p align="left"> <a href="https://www.youtube.com/@sanya-it" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://t.me/sanya_ob_it" target="_blank" rel="noreferrer"><img src="https://telegram.org/img/website_icon.svg" width="32" height="32" /></a></p>
